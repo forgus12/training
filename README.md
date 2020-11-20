@@ -8,5 +8,5 @@
 6. If Else✓
 7. Логические операторы✓
 8. Метод Switch✓
-9. While  и Do Whie✓
+9. While  и Do While✓
 10. Цикл For✓
