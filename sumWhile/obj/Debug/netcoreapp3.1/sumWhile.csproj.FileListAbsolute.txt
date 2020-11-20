@@ -1,0 +1,12 @@
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\obj\Debug\netcoreapp3.1\sumWhile.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\obj\Debug\netcoreapp3.1\sumWhile.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\obj\Debug\netcoreapp3.1\sumWhile.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\bin\Debug\netcoreapp3.1\sumWhile.exe
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\bin\Debug\netcoreapp3.1\sumWhile.deps.json
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\bin\Debug\netcoreapp3.1\sumWhile.runtimeconfig.json
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\bin\Debug\netcoreapp3.1\sumWhile.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\bin\Debug\netcoreapp3.1\sumWhile.dll
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\bin\Debug\netcoreapp3.1\sumWhile.pdb
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\obj\Debug\netcoreapp3.1\sumWhile.dll
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\obj\Debug\netcoreapp3.1\sumWhile.pdb
+C:\Users\Ivan\Desktop\C_Sharp\first\sumWhile\obj\Debug\netcoreapp3.1\sumWhile.genruntimeconfig.cache
