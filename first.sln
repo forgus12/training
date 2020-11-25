@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "triangle", "triangle\triang
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ternary", "ternary\ternary.csproj", "{48632195-EC2A-475C-8A6A-BB1FD7C6F0BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayFirst", "Array\ArrayFirst.csproj", "{30660988-C9B7-4973-8AA9-F95A185E5AB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayFirst", "Array\ArrayFirst.csproj", "{30660988-C9B7-4973-8AA9-F95A185E5AB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayTwo", "ArrayTwo\ArrayTwo.csproj", "{54FD2C60-17A8-43B3-8BA2-FD00575678EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayTwo", "ArrayTwo\ArrayTwo.csproj", "{54FD2C60-17A8-43B3-8BA2-FD00575678EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayTwoDimensional", "ArrayTwoDimensional\ArrayTwoDimensional.csproj", "{1721E9F8-B4B7-4F58-B4B0-3E21F4915482}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{54FD2C60-17A8-43B3-8BA2-FD00575678EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54FD2C60-17A8-43B3-8BA2-FD00575678EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54FD2C60-17A8-43B3-8BA2-FD00575678EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1721E9F8-B4B7-4F58-B4B0-3E21F4915482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1721E9F8-B4B7-4F58-B4B0-3E21F4915482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1721E9F8-B4B7-4F58-B4B0-3E21F4915482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1721E9F8-B4B7-4F58-B4B0-3E21F4915482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
