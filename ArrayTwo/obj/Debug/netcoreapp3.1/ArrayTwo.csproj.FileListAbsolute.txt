@@ -1,0 +1,13 @@
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.exe
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.deps.json
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.runtimeconfig.json
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.dll
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.pdb
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.dll
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.pdb
+C:\Users\Ivan\Desktop\C_Sharp\first\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.genruntimeconfig.cache
