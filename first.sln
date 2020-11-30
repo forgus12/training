@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayTwo", "ArrayTwo\ArrayT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayTwoDimensional", "ArrayTwoDimensional\ArrayTwoDimensional.csproj", "{1721E9F8-B4B7-4F58-B4B0-3E21F4915482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayThreeDimensional", "ArrayThreeDimensional\ArrayThreeDimensional.csproj", "{8E18A519-3590-4994-A37D-96D2D6D78375}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayThreeDimensional", "ArrayThreeDimensional\ArrayThreeDimensional.csproj", "{8E18A519-3590-4994-A37D-96D2D6D78375}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method", "method\method.csproj", "{FC3C4306-D508-4D31-8757-BBA30A2B998A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "method", "method\method.csproj", "{FC3C4306-D508-4D31-8757-BBA30A2B998A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchIndex", "SearchIndex\SearchIndex.csproj", "{0B36E22F-3938-42DC-99A6-BBFFC871642C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchIndex", "SearchIndex\SearchIndex.csproj", "{0B36E22F-3938-42DC-99A6-BBFFC871642C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{DA63D8CD-DE48-4004-86C3-FEDD411B1CE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{0B36E22F-3938-42DC-99A6-BBFFC871642C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B36E22F-3938-42DC-99A6-BBFFC871642C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B36E22F-3938-42DC-99A6-BBFFC871642C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA63D8CD-DE48-4004-86C3-FEDD411B1CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA63D8CD-DE48-4004-86C3-FEDD411B1CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA63D8CD-DE48-4004-86C3-FEDD411B1CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA63D8CD-DE48-4004-86C3-FEDD411B1CE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
